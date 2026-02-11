@@ -1,8 +1,8 @@
 PycURL -- A Python Interface To The cURL library
 ================================================
 
-.. image:: https://github.com/pycurl/pycurl/workflows/CI/badge.svg
-	   :target: https://github.com/pycurl/pycurl/actions
+.. image:: https://github.com/Unity-Billal-mesloub/pycurl/workflows/CI/badge.svg
+	   :target: https://github.com/Unity-Billal-mesloub/pycurl/actions
 
 PycURL is a Python interface to `libcurl`_, the multiprotocol file
 transfer library. Similarly to the urllib_ Python module,
@@ -79,7 +79,7 @@ reports and direct questions to our mailing list instead.
 .. _curl-and-python mailing list: https://lists.haxx.se/listinfo/curl-and-python
 .. _Stack Overflow: http://stackoverflow.com/questions/tagged/pycurl
 .. _Mailing list archives: https://curl.haxx.se/mail/list.cgi?list=curl-and-python
-.. _via GitHub: https://github.com/pycurl/pycurl/issues
+.. _via GitHub: https://github.com/Unity-Billal-mesloub/pycurl/issues
 
 
 Automated Tests
@@ -187,4 +187,4 @@ License
 .. _urllib: http://docs.python.org/library/urllib.html
 .. _`the repository`: https://github.com/pycurl/pycurl
 .. _`mailing list`: https://lists.haxx.se/listinfo/curl-and-python
-.. _`downloads repository`: https://github.com/pycurl/downloads
+.. _`downloads repository`: https://github.com/Unity-Billal-mesloub/pycurl/downloads
