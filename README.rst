@@ -146,7 +146,7 @@ Contribute
 For smaller changes:
 
 #. Fork `the repository`_ on Github.
-#. Create a branch off **master**.
+#. Create a branch off **main**.
 #. Make your changes.
 #. Write a test which shows that the bug was fixed or that the feature
    works as expected.
@@ -185,6 +185,6 @@ License
 .. _PycURL: http://pycurl.io/
 .. _libcurl: https://curl.haxx.se/libcurl/
 .. _urllib: http://docs.python.org/library/urllib.html
-.. _`the repository`: https://github.com/pycurl/pycurl
+.. _`the repository`: https://github.com/Unity-Billal-mesloub/pycurl
 .. _`mailing list`: https://lists.haxx.se/listinfo/curl-and-python
-.. _`downloads repository`: https://github.com/Unity-Billal-mesloub/pycurl/downloads
+.. _`downloads repository`: https://github.com/Unity-Billal-mesloub/downloads
